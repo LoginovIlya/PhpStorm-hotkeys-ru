@@ -87,5 +87,14 @@
 | Mac OS X                                              | Windows/Linux                   | Описание                                                                          |
 |-------------------------------------------------------|---------------------------------|-----------------------------------------------------------------------------------|
 |                                                       |                                 |                                                                                   |
+| null                                                  | Ctrl + J                        | Вставить шаблон из списка                                                         |
+| null                                                  | eco                             | выражение 'echo'                                                                  |
+| null                                                  | fore                            | foreach(iterable_expr as $value) {...}                                            |
+| null                                                  | forek                           | foreach(iterable_expr as $key => $value) {...}                                    |
+| null                                                  | inc/inco                        | выражение 'include'/'include_once'                                                |
+| null                                                  | prif                            | закрытый (private) метод                                                          |
+| null                                                  | prof                            | защищённый (protected) метод                                                      |
+| null                                                  | pubf                            | открытый (public) метод                                                           |
+| null                                                  | rqr/rqro                        | выражение 'require'/'require_once'                                                |
 
 Для поиска какого-либо действия в интегрированной среде разработки воспользуйтесь поиском действия (Ctrl + Shift + A) 
