@@ -1,5 +1,7 @@
 # Горячие клавиши IDE PhpStorm
 
+[PDF Файл](https://github.com/LoginovIlya/PhpStorm-hotkeys-ru/blob/master/PhpStorm_Hotkeys_ru.pdf)
+
 #### Редактирование:
 
 | Mac OS X                                              | Windows/Linux                   | Описание                                                                                       |
